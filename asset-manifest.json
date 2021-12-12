@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portafolio-principal/static/css/main.64de8e9d.chunk.css",
+    "main.js": "/Portafolio-principal/static/js/main.d3da9746.chunk.js",
+    "main.js.map": "/Portafolio-principal/static/js/main.d3da9746.chunk.js.map",
+    "runtime-main.js": "/Portafolio-principal/static/js/runtime-main.9e0d8704.js",
+    "runtime-main.js.map": "/Portafolio-principal/static/js/runtime-main.9e0d8704.js.map",
+    "static/css/2.e6a755d0.chunk.css": "/Portafolio-principal/static/css/2.e6a755d0.chunk.css",
+    "static/js/2.8ebaa423.chunk.js": "/Portafolio-principal/static/js/2.8ebaa423.chunk.js",
+    "static/js/2.8ebaa423.chunk.js.map": "/Portafolio-principal/static/js/2.8ebaa423.chunk.js.map",
+    "index.html": "/Portafolio-principal/index.html",
+    "static/css/2.e6a755d0.chunk.css.map": "/Portafolio-principal/static/css/2.e6a755d0.chunk.css.map",
+    "static/css/main.64de8e9d.chunk.css.map": "/Portafolio-principal/static/css/main.64de8e9d.chunk.css.map",
+    "static/js/2.8ebaa423.chunk.js.LICENSE.txt": "/Portafolio-principal/static/js/2.8ebaa423.chunk.js.LICENSE.txt",
+    "static/media/Constructora.c77ea9bd.png": "/Portafolio-principal/static/media/Constructora.c77ea9bd.png",
+    "static/media/Demon-PeruTravel.c847fd7d.png": "/Portafolio-principal/static/media/Demon-PeruTravel.c847fd7d.png",
+    "static/media/about-img.4d9b0a29.jpeg": "/Portafolio-principal/static/media/about-img.4d9b0a29.jpeg",
+    "static/media/akat.883bfe8f.png": "/Portafolio-principal/static/media/akat.883bfe8f.png",
+    "static/media/css.2c305a5f.png": "/Portafolio-principal/static/media/css.2c305a5f.png",
+    "static/media/designer.291cff35.svg": "/Portafolio-principal/static/media/designer.291cff35.svg",
+    "static/media/diseñoWeb.90b4d1ce.svg": "/Portafolio-principal/static/media/diseñoWeb.90b4d1ce.svg",
+    "static/media/fb.4572f314.svg": "/Portafolio-principal/static/media/fb.4572f314.svg",
+    "static/media/git.e2f07326.svg": "/Portafolio-principal/static/media/git.e2f07326.svg",
+    "static/media/img-home.e18812d3.jpeg": "/Portafolio-principal/static/media/img-home.e18812d3.jpeg",
+    "static/media/ins.4d3c7bf8.svg": "/Portafolio-principal/static/media/ins.4d3c7bf8.svg",
+    "static/media/js.71a42e48.png": "/Portafolio-principal/static/media/js.71a42e48.png",
+    "static/media/mask2.fa42db7f.png": "/Portafolio-principal/static/media/mask2.fa42db7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0d8704.js",
+    "static/css/2.e6a755d0.chunk.css",
+    "static/js/2.8ebaa423.chunk.js",
+    "static/css/main.64de8e9d.chunk.css",
+    "static/js/main.d3da9746.chunk.js"
+  ]
+}
